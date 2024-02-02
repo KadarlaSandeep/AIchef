@@ -1,0 +1,29 @@
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: rgb(5, 127, 234);
+    font-style: italic;
+    margin-top: 200px;
+}
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/vertical-shot-empty-cafeteria_181624-29282.jpg?w=360&t=st=1706699304~exp=1706699904~hmac=4f728538bacad14fcbfb383bc5d001dc31ce79991df544705c8ea12cbcec70a1");
+    background-size: cover;
+    height:100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+
+}
+.container{
+    display: flex;
+
+}
+.image{
+    height: 600px;
+    width: 600px;
+    border-radius: 20px;
+    margin-left: 70px;
+}

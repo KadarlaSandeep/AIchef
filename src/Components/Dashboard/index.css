@@ -1,0 +1,20 @@
+
+.dashboard-container {
+    /* Your styles here */
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  .nav-bar {
+    /* Your styles for navigation bar here */
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+
+  }
+  .items{
+    margin-left: 950px;
+  }
+  

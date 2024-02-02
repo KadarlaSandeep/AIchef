@@ -1,0 +1,26 @@
+.about-container{
+    height: 700px;
+    width: auto;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 80px;
+}
+.about-section{
+    background-color:rgb(10, 71, 71);
+    height: auto;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding:30px;
+    margin-right: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 100px;
+    margin-top: 500px;
+
+
+}
+.image{
+    height: 700px;
+    width: 700px;
+}
